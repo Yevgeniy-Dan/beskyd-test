@@ -1,6 +1,6 @@
 # Beskyd Test
 
-This is a test project for Beskyd.
+This is a test project for Beskyd, Inc.
 
 ## Getting Started
 
