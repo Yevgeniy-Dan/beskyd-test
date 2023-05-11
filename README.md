@@ -12,4 +12,4 @@ To get started, you'll need to clone the repo and install npm in the root folder
 4. Install npm in the frontend folder: `cd ../frontend && npm install`
 5. Create an env file in the backend folder using the env.example template.
 
-Now you're ready to run the application! From the root folder, run `npm start`.
+Now you're ready to run the application! From the root folder, run `npm run dev`.
